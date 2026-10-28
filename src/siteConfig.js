@@ -1,12 +1,12 @@
 export const siteConfig = {
-  name: "Jane Doe",
+  name: "Flint Eggebeen",
   role: "XR Developer",
-  tagline: "Ik bouw interactieve XR-ervaringen die zich natuurlijk en intuïtief aanvoelen.",
-  aboutImage: "https://api.dicebear.com/7.x/notionists/png?seed=portfolio",
+  tagline: "XR Developer | Grafisch Lyceum Utrecht",
+  aboutImage: "/images/MijnFoto.jpg",
   cv: "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
 
   socials: {
-    email: "jane.doe@example.com",
+    email: "eggebeenflint@gmail.com",
     github: "https://github.com/",
     linkedin: "https://linkedin.com/",
     itch: "https://itch.io/",
